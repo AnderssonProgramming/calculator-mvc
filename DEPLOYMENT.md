@@ -51,7 +51,7 @@ chmod +x start-calculator.sh
 
 1. **Clone and Setup**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/AnderssonProgramming/calculator-mvc.git
    cd calculator-mvc
    ```
 

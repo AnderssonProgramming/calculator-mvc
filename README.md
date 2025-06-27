@@ -2,7 +2,7 @@
 
 A modern, responsive calculator web application built with **Spring Boot** and **Spring MVC** architecture. This multi-user calculator supports basic arithmetic operations and features a beautiful, intuitive user interface.
 
-![Calculator Demo](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen) ![Java](https://img.shields.io/badge/Java-17+-orange) ![Maven](https://img.shields.io/badge/Maven-3.6+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Calculator Demo](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen) ![Java](https://img.shields.io/badge/Java-17+-orange) ![Maven](https://img.shields.io/badge/Maven-3.6+-blue) ![License](https://img.shields.io/badge/License-GPL_3.0-yellow)
 
 ## 🌟 Features
 
@@ -63,7 +63,7 @@ This application implements the **Spring MVC (Model-View-Controller)** architect
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/AnderssonProgramming/calculator-mvc.git
    cd calculator-mvc
    ```
 
