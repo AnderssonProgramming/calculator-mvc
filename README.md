@@ -86,6 +86,8 @@ This application implements the **Spring MVC (Model-View-Controller)** architect
    - Open your browser and navigate to: **http://localhost:8081**
    - Start calculating! 🎉
 
+![alt text](assets/image.png)
+
 ### 🔌 Alternative Ways to Run
 
 **Using Java directly:**
