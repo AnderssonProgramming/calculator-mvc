@@ -90,7 +90,7 @@ function deleteLast() {
 /**
  * Evaluates the current expression
  */
-function calculate() {
+async function calculate() {
     if (currentExpression === '') {
         return;
     }
